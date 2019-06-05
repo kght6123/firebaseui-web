@@ -6,14 +6,14 @@
     "dist/firebaseui.js",
     "dist/firebaseui.css",
     "dist/npm.js",
-    "dist/npm_ja.js",
+    "dist/npm__ja.js",
     "dist/index.d.ts",
     "dist/externs",
     "LICENSE",
     "README.md",
     "package.json"
   ],
-  "main": "dist/npm_ja.js",
+  "main": "dist/npm__ja.js",
   "types": "dist/index.d.ts",
   "style": "dist/firebaseui.css",
   "scripts": {
